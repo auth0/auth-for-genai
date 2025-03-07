@@ -2,6 +2,8 @@
 
 Auth for GenAI provides a robust security framework designed specifically for GenAI applications. It ensures both secure user authentication and fine-grained access control for AI agents, granting them access to only authorized data.
 
+Auth for GenAI secures your AI agent workflows:
+
 - Seamless implementation and integration with your existing architecture.
 - Comprehensive security controls for both human users and AI agents.
 - Enterprise-grade protection that builds user trust and confidence.
