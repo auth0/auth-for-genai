@@ -20,7 +20,6 @@ Auth for GenAI secures your AI agent workflows:
 
 ## Project structure
 
-- [docs](https://github.com/atko-cic-lab/a0-labs-sb): Auth for GenAI documentation
 - [nextjs-auth0](https://github.com/auth0/nextjs-auth0): Next.js SDK
 - [auth0-python](https://github.com/auth0/auth0-python): Python SDK
 - [node-auth0](https://github.com/auth0/node-auth0): Node.js SDK
