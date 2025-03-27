@@ -32,14 +32,16 @@ Read the [Auth for GenAI documentation](http://auth0.com/ai/docs) to learn how t
   * FastAPI SDK  
     
 
-Management SDKs:
+* Management SDKs:
 
-* [Python SDK](https://github.com/auth0/auth0-python)  
+  * [Python SDK](https://github.com/auth0/auth0-python)  
   * [Node.js](https://github.com/auth0/node-auth0)  
-      
+
+
 * To help you build with your LLM framework we have built these SDKs:  
-    
-  \[\!WARNING\] These are currently under development and are not intended to be used in production, and therefore has no official support:  
+> [!WARNING]
+> These are currently under development and are not intended to be used in production, and therefore has no official support:
+   
   * [Auth0 AI for Javascript](https://github.com/auth0-lab/auth0-ai-js)  
     * [auth0/ai](https://github.com/auth0-lab/auth0-ai-js/tree/main/packages/ai): Base abstractions for authentication and authorization in AI applications.  
     * [auth0/ai-vercel](https://github.com/auth0-lab/auth0-ai-js/tree/main/packages/ai-vercel): Integration with [Vercel AI](https://sdk.vercel.ai/) framework.
